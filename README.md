@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS03AXBS-LJ03A-05-HPIESA301-streamed-calibration_status
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Calibration Status Data<br>
+Instrument Group Code: HPIES<br>
